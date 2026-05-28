@@ -1,0 +1,32 @@
+aid: trace-moe
+name: Trace Moe
+description: "A useful tool to get the exact scene of an anime from a screenshot"
+url: https://soruly.github.io/trace.moe-api/#/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anime"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anime
+  - Public APIs
+apis:
+  - name: Trace Moe
+    description: "A useful tool to get the exact scene of an anime from a screenshot"
+    humanURL: https://soruly.github.io/trace.moe-api/#/
+    baseURL: https://soruly.github.io/trace.moe-api/#/
+    tags:
+      - Anime
+    properties:
+      - type: Documentation
+        url: https://soruly.github.io/trace.moe-api/#/
+common:
+  - type: Website
+    url: https://soruly.github.io/trace.moe-api/#/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
