@@ -1,4 +1,16 @@
 aid: trace-moe
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/trace-moe.png
 name: Trace Moe
 description: "A useful tool to get the exact scene of an anime from a screenshot"
 url: https://soruly.github.io/trace.moe-api/#/
